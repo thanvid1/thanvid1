@@ -15,7 +15,7 @@
 - 🔭 Currently polishing the AR Navigation System and preparing for AI/ML placement interviews
 - 🌱 Currently exploring: cloud computing, AI/ML engineering
 - 📫 Reach me at **thanvidacharya@gmail.com**
-- 📄 **[Resume]([#](https://drive.google.com/file/d/1517eN1QGU7zeNmBOcpPbxpAn5884Yq7E/view?usp=sharing))** - Where you get to know about me!
+- 📄 **[Resume](https://drive.google.com/file/d/1517eN1QGU7zeNmBOcpPbxpAn5884Yq7E/view?usp=sharing)** - Where you get to know about me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
