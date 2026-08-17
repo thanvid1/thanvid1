@@ -48,17 +48,3 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanvid1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thanvid1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=thanvid1&theme=tokyonight" alt="GitHub Streak" />
-</p>
