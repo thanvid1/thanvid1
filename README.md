@@ -50,13 +50,15 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanvid1&show_icons=true&locale=en&layout=compact" alt="thanvid1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanvid1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thanvid1&show_icons=true&locale=en" alt="thanvid1" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=thanvid1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanvid1" alt="thanvid1" />
+<img src="https://streak-stats.demolab.com/?user=thanvid1&theme=tokyonight" alt="GitHub Streak" />
 </p>
