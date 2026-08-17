@@ -2,14 +2,10 @@
 <h3 align="center">Final-Year CSE Student | AI/ML & AR/VR Developer | Turning ideas into working prototypes</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thanvid1&label=Profile%20views&color=0e75b6&style=flat" alt="thanvid1" />
 <img src="https://img.shields.io/badge/CGPA-9.12-brightgreen" alt="cgpa" />
 <img src="https://img.shields.io/badge/Graduating-2027-blue" alt="grad" />
 </p>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanvid1" alt="thanvid1" /></a>
-</p>
 
 ### 🚀 Featured Projects
 
@@ -19,7 +15,7 @@
 - 🔭 Currently polishing the AR Navigation System and preparing for AI/ML placement interviews
 - 🌱 Currently exploring: cloud computing, AI/ML engineering
 - 📫 Reach me at **thanvidacharya@gmail.com**
-- 📄 [Resume](#) *(add link — e.g. a Drive/PDF link or LinkedIn "Featured" doc)*
+- 📄 **[Resume]([#](https://drive.google.com/file/d/1517eN1QGU7zeNmBOcpPbxpAn5884Yq7E/view?usp=sharing))** - Where you get to know about me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
