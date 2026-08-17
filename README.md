@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanvi D Acharya</h1>
+<h1 align="center">Hi, I'm Thanvi D Acharya</h1>
 <h3 align="center">Final-Year CSE Student | AI/ML & AR/VR Developer | Turning ideas into working prototypes</h3>
 
 <p align="center">
